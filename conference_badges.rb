@@ -20,4 +20,3 @@ def printer
   puts badge_maker(name)
   puts batch_badge_creator(speakers)
 end
-
